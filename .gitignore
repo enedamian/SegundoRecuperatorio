@@ -1,0 +1,4 @@
+.venv/
+modelos/__pycache__
+rutas/__pycache__
+5.txt

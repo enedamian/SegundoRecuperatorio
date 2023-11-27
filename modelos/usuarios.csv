@@ -1,0 +1,11 @@
+id_usuario,nombre,correo,fecha_registro
+1,Juan,juan@example.com,2019-01-01 00:00:00
+2,Pedro,pedro@example.com,2019-01-01 00:00:00
+3,Maria,maria@example.com,2019-01-01 00:00:00
+4,Luis,luis@example.com,2019-01-01 00:00:00
+5,Ana,ana@example.com,2019-01-01 00:00:00
+6,Carlos,carlos@example.com,2019-01-01 00:00:00
+7,Laura,laura@example.com,2019-01-01 00:00:00
+8,Diego,diego@example.com,2019-01-01 00:00:00
+9,Sofia,sofia@example.com,2019-01-01 00:00:00
+10,Gabriel,gabriel@example.com,2019-01-01 00:00:00
